@@ -6,4 +6,5 @@
 - I used OpenRouter (https://openrouter.ai) as a free API provider.
 - I used a Mistral AI (https://mistral.ai) LLM as the reasoning model.
 - I used ChatGPT (https://chatgpt.com/) for the most of the implementation.
+- The user only needs to provide the name of the program that is to be model checked in .smv file.
 - This is a basic sample implementation.
