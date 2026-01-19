@@ -11,6 +11,6 @@
 - The implementations are
     - FormalAgent.ipynb is designed for a single program.
     - FormalAgentDir.ipynb is designed for all programs in a directory.
-    - MultiFormalAgents.ipynb is designed for multi-agents working together for all programs in a directory. However, *the interpretation of the mutex.svm becomes incorrect as compared to the currect interpretation of a single agent*.
+    - MultiFormalAgents.ipynb is designed for multi-agents working together for all programs in a directory. However, *the interpretation of the mutex.svm becomes incorrect as compared to the correct interpretation of a single agent*.
     - MultiFormalAgentsWithReflection.ipynb is designed for multi-agents with reflection working together for all programs in a directory. *The interpretation of the mutex.svm is still incorrect. Reflection does not correct the incorrect interpretation*. 
 
