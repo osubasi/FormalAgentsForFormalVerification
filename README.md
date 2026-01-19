@@ -9,5 +9,5 @@
   - OpenRouter (https://openrouter.ai) as a free API provider.
   - A Mistral AI (https://mistral.ai) LLM as the reasoning model.
   - ChatGPT (https://chatgpt.com/) for the most of the implementation which includes guardrails.
-- The user only needs to provide the name of the program that is to be model checked in .smv file.
+- The user only needs to provide the name of the program (.smv) or a directory that is to be model checked.
 
